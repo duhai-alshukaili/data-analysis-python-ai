@@ -116,8 +116,8 @@ Before pasting any data or output into an AI tool, consider whether it contains 
 
 For questions before the workshop, please contact the workshop organizer:
 
-**Dr. Duhai Alshukaili**
+**Duhai Alshukaili**
 College of Computing and Information Sciences, UTAS-Ibri
-Email: [add email address]
+Email: [.....]
 
 We look forward to working with you.
