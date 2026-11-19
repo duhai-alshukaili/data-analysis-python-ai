@@ -83,12 +83,12 @@ Data privacy, bias, and disclosure of AI use in research methods sections. An in
 
 ## Assessment
 
-~~| Component | Weight | What it involves |
+| Component | Weight | What it involves |
 |---|---|---|
 | Daily lab exercises | 40% | Completed and annotated labs from Days 1 to 4 |
 | AI interaction log | 20% | A running record of your prompts, the AI's responses, and your evaluation of them |
 | Capstone project | 40% | A notebook with cleaned data, analysis, visualizations, and a written interpretation |
-~~
+
 A template for the AI interaction log is provided in the Day 1 folder. Please start using it from the first session, since it is much easier to keep up as you go than to reconstruct later.
 
 A certificate of completion is awarded at the end of the workshop.
